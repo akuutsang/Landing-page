@@ -5,7 +5,75 @@ body{
 .header{
     height: 30%;
     background-color: #1F2937;
+    border-top: 0;
+    border-right: 100px;
+    border-left: 100px;
+    border-bottom: 100px;
+
 }
+.top{
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between; 
+    border: 20px;
+    margin: 20px;
+    padding: 20px;
+    
+}
+.logo{
+     font-size: 24px;
+     color: #F9FAF8;
+    
+} 
+
+.list{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    font-size: 18px; 
+    padding-top: 10px;
+   
+}
+
+.bottom{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between ;
+    padding: 40px ;
+}
+
+.awesome{
+    color: #F9FAF8;
+    font-size: 48px;
+    font-weight: bold;
+}
+
+.placeholder{
+    font-size: 18px;
+    color: #E5E7EB;
+    background-color: rgba(166, 166, 171, 0.33);
+    justify-content: center;
+    padding: 60px;
+    text-align: center;
+
+
+}
+button{
+    background-color: #3882F6;
+    color: white;
+    border-radius: 5px;
+    border: 0px;
+}
+    
+
+
+
+
+
+
+
+
 .random{
     height: 25%;
    
