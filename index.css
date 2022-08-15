@@ -3,7 +3,7 @@ body{
     
 }
 .header{
-    height: 30%;
+    max-height: 30%;
     background-color: #1F2937;
     border-top: 0;
     border-right: 100px;
@@ -66,18 +66,51 @@ button{
     border: 0px;
 }
     
-
-
-
-
-
-
-
-
 .random{
-    height: 25%;
+    max-height: 25%;
    
 }
+.info{
+    text-align: center;
+    font-size: 36px;
+    font-weight: bold;
+    color: #1F2937;
+}
+.flex{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.first{
+    border: 2px solid #3882F6;
+    width: 50px;
+    height: 50px;
+    border-radius: 5px;
+}
+.second{
+    border: 2px solid #3882F6;
+    width: 50px;
+    height: 50px;
+    border-radius: 5px;
+}
+.third{
+    border: 2px solid #3882F6;
+    width: 50px;
+    height: 50px;
+    border-radius: 5px;
+}
+
+.fourth{
+    border: 2px solid #3882F6;
+    width: 50px;
+    height: 50px;
+    border-radius: 5px;
+}
+
+
+
+
+
 .Thor{
     height: 20%;
     background-color: #E5E7EB;
