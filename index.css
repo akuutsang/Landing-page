@@ -80,32 +80,68 @@ button{
     display: flex;
     flex-direction: row;
     justify-content: center;
+    gap: 10px;
+    width: 100vw;
+    
 }
 .first{
     border: 2px solid #3882F6;
-    width: 50px;
-    height: 50px;
-    border-radius: 5px;
+    width: 100px;
+    height: 100px;
+    border-radius: 10px;
+
 }
 .second{
     border: 2px solid #3882F6;
-    width: 50px;
-    height: 50px;
-    border-radius: 5px;
+    width: 100px;
+    height: 100px;
+    border-radius: 10px;
 }
 .third{
     border: 2px solid #3882F6;
-    width: 50px;
-    height: 50px;
-    border-radius: 5px;
+    width: 100px;
+    height: 100px;
+    border-radius: 10px;
 }
 
 .fourth{
     border: 2px solid #3882F6;
-    width: 50px;
-    height: 50px;
-    border-radius: 5px;
+    width: 100px;
+    height: 100px;
+    border-radius: 10px;
 }
+.figure{ 
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+    font-size: xx-small;
+    width: 100vw;
+    justify-content: center;
+    margin-top: 0%;
+    text-justify: auto;
+ }
+
+ .one{
+    width: 100px;
+    height: 50px;
+  
+ }
+ .two{
+    width: 100px;
+    height: 50px;
+   
+}
+
+ .three{
+    width: 100px;
+    height: 50px;
+   
+ }
+ .four{
+    width: 100px;
+    height: 50px;
+   
+ }
 
 
 
