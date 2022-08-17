@@ -199,4 +199,8 @@ span{
 .last{
     height: 5%;
     background-color: #1F2937 ;
+    padding: 20px;
+    text-align: center;
+    color: #F9FAF8;
+    font-size: xx-small;
 }
