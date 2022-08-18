@@ -1,7 +1,8 @@
 body{
-    height: 100%;
-    
+    height: 100%;    
 }
+
+
 .header{
     max-height: 30%;
     background-color: #1F2937;
@@ -9,6 +10,8 @@ body{
     padding-left: 100px;
     padding-right: 100px;
 }
+
+
 .top{
     color: white;
     display: flex;
@@ -16,15 +19,16 @@ body{
     justify-content: space-between; 
     border: 20px;
     margin: 20px;
-    /* padding: 10px; */
-    
+    /* padding: 10px; */    
 }
+
+
 .logo{
      font-size: 24px;
      color: #F9FAF8;
-     margin-left: 15px;
-    
-} 
+     margin-left: 15px;    
+}
+
 
 .list{
     display: flex;
@@ -34,6 +38,7 @@ body{
     padding-top: 10px; 
 }
 
+
 .bottom{
     display: flex;
     flex-direction: row;
@@ -41,11 +46,13 @@ body{
     padding: 40px ;
 }
 
+
 .awesome{
     color: #F9FAF8;
     font-size: 48px;
     font-weight: bold;
 }
+
 
 .placeholder{
     font-size: 18px;
@@ -54,48 +61,55 @@ body{
     justify-content: center;
     padding: 60px;
     text-align: center;
-
-
 }
+
+
 button{
     background-color: #3882F6;
     color: white;
     border-radius: 5px;
-    border: 1px solid white;
-   
+    border: 1px solid white;   
 }
     
+
 .random{
-    max-height: 25%;
-   
+    max-height: 25%;   
 }
+
+
 .info{
     text-align: center;
     font-size: 36px;
     font-weight: bold;
     color: #1F2937;
 }
+
+
 .flex{
     display: flex;
     flex-direction: row;
     justify-content: center;
     gap: 10px;
-    width: 100vw;
-    
+    width: 100vw;    
 }
+
+
 .first{
     border: 2px solid #3882F6;
     width: 100px;
     height: 100px;
     border-radius: 10px;
-
 }
+
+
 .second{
     border: 2px solid #3882F6;
     width: 100px;
     height: 100px;
     border-radius: 10px;
 }
+
+
 .third{
     border: 2px solid #3882F6;
     width: 100px;
@@ -103,12 +117,15 @@ button{
     border-radius: 10px;
 }
 
+
 .fourth{
     border: 2px solid #3882F6;
     width: 100px;
     height: 100px;
     border-radius: 10px;
 }
+
+
 .figure{ 
     display: flex;
     flex-direction: row;
@@ -120,38 +137,37 @@ button{
     text-justify: auto;
  }
 
+
  .one{
     width: 100px;
-    height: 50px;
-  
+    height: 50px; 
  }
+
+
  .two{
     width: 100px;
-    height: 50px;
-   
+    height: 50px;  
 }
+
 
  .three{
     width: 100px;
-    height: 50px;
-   
+    height: 50px;  
  }
+
+
  .four{
     width: 100px;
     height: 50px;
-   
- }
-
-
-
+   }
 
 
 .Thor{
     height: 20%;
     background-color: #E5E7EB;
     padding: 50px;
-
 }
+
 
 .testimonial{
     /* width: 500px; */
@@ -164,17 +180,22 @@ button{
     font-style: italic;
     color: #1F2937;
 }
+
+
 .quote{
    text-align: end;
    padding-left:200px;
    padding-top: 0;
 }
+
+
 .action{
     height: 20%;
     padding: 50px;  
-    background-color: #F9FAF8;
-    
+    background-color: #F9FAF8;    
 }
+
+
 .container{
     width: 400px;
     margin-left: 350px;
@@ -187,11 +208,14 @@ button{
     color: #F9FAF8;
     font-size: xx-small;
 }
+
+
 span{
     font-weight: bold;
     font-size: 10px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
  } 
+
 
 .sign{
      margin-top: 20px; 
